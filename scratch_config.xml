@@ -1,11 +1,5 @@
 <application>
   <component name="ScratchConfig">
     <option name="defaultScratchMeaning" value="TOPMOST" />
-    <option name="fullScratchNamesOrdered">
-      <list>
-        <option value="test.php" />
-      </list>
-    </option>
-    <option name="lastOpenedScratch" value="test.php" />
   </component>
 </application>
