@@ -1,14 +1,11 @@
-<scheme name="_@user_Material Default" version="142">
-  <option name="FONT_SCALE" value="1.3333334" />
+<scheme name="Material Default copy" version="142">
   <metaInfo>
-    <property name="created">2017-11-10T07:26:06</property>
+    <property name="created">2017-11-25T17:01:50</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
     <property name="modified">2017-11-25T17:19:48</property>
-    <property name="originalScheme">Material Default</property>
+    <property name="originalScheme">_@user_Material Default</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -1332,9 +1329,29 @@
         <option name="FOREGROUND" value="1a1f29" />
       </value>
     </option>
+    <option name="JS.FUNCTION_ARROW">
+      <value>
+        <option name="FOREGROUND" value="89ddff" />
+        <option name="EFFECT_COLOR" value="474a49" />
+      </value>
+    </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="eeffe3" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ff5751" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="32424a" />
+        <option name="ERROR_STRIPE_COLOR" value="4a000b" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
