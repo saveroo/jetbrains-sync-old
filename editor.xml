@@ -8,6 +8,7 @@
       <map>
         <entry key="CSS" value="true" />
         <entry key="DBN-PSQL" value="true" />
+        <entry key="ECMAScript 6" value="true" />
         <entry key="HTML" value="true" />
         <entry key="Haml" value="true" />
         <entry key="JSON" value="true" />
@@ -24,11 +25,6 @@
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
   </component>
 </application>
