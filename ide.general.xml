@@ -3,6 +3,5 @@
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups" value="false" />
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="0" />
     <entry key="vcs.annotations.preload" value="true" />
-    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>
