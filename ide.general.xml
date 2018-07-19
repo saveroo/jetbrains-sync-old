@@ -4,5 +4,14 @@
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="0" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="vcs.annotations.preload" value="true" />
+    <entry key="win.editor.thumb.default.alpha.base" value="0" />
+    <entry key="win.editor.thumb.default.alpha.delta" value="102" />
+    <entry key="win.editor.thumb.darcula.alpha.base" value="0" />
+    <entry key="win.editor.thumb.darcula.alpha.delta" value="102" />
+    <entry key="win.editor.thumb.default.fill.min" value="102" />
+    <entry key="win.editor.thumb.default.fill.max" value="150" />
+    <entry key="win.editor.thumb.darcula.fill.min" value="102" />
+    <entry key="ide.balloon.shadow.size" value="0" />
+    <entry key="ide.svg.icon" value="true" />
   </component>
 </application>
