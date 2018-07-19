@@ -1,7 +1,6 @@
 <application>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
-    <option name="FONT_SCALE" value="1.3333334" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -12,6 +11,7 @@
         <entry key="HTML" value="true" />
         <entry key="Haml" value="true" />
         <entry key="JSON" value="true" />
+        <entry key="JSX Harmony" value="true" />
         <entry key="JavaScript" value="true" />
         <entry key="LESS" value="true" />
         <entry key="PHP" value="true" />
