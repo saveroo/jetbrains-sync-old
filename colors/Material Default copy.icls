@@ -4,7 +4,7 @@
     <property name="created">2017-11-25T17:01:50</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2018-07-19T22:05:48</property>
+    <property name="modified">2018-07-20T06:55:56</property>
     <property name="originalScheme">_@user_Material Default</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
@@ -176,27 +176,26 @@
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="51ff91" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="BACKGROUND" value="272d4a" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
         <option name="FOREGROUND" value="607d8b" />
-        <option name="BACKGROUND" value="51ff91" />
+        <option name="BACKGROUND" value="272d4a" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="80cbcf" />
+        <option name="BACKGROUND" value="272d4a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
       <value>
         <option name="FOREGROUND" value="425b67" />
-        <option name="BACKGROUND" value="51ff91" />
+        <option name="BACKGROUND" value="272d4a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
