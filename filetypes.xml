@@ -7,6 +7,7 @@
       <mapping pattern="ProcFile" type="PLAIN_TEXT" />
       <mapping pattern="index,js" type="PLAIN_TEXT" />
       <mapping pattern="quiz-collection.js" type="PLAIN_TEXT" />
+      <mapping pattern="QsGeneralToolbar" type="Vue.js" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
