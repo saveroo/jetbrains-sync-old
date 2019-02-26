@@ -8,6 +8,7 @@
       <mapping pattern=".babelrc2" type="PLAIN_TEXT" />
       <mapping pattern="index,js" type="PLAIN_TEXT" />
       <mapping pattern="quiz-collection.js" type="PLAIN_TEXT" />
+      <mapping pattern="OQsDialog" type="Vue.js" />
       <mapping pattern="QuranAtTaisir.vue" type="Vue.js" />
       <mapping pattern="QsGeneralToolbar" type="Vue.js" />
       <mapping ext="fnc" type="DBN-PSQL" />
