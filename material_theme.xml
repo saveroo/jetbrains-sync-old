@@ -1,9 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.2-2018.1" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="accentColor" value="009688" />
-    <option name="userId" value="-6b89efaa:164b31ef1dc:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="accentColor" value="298c96" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="userId" value="-6b89efaa:164b31ef1dc:-7fff" />
+    <option name="version" value="2.4.2-2018.1" />
   </component>
 </application>
