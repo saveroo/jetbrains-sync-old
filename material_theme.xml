@@ -1,12 +1,17 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="accentMode" value="true" />
     <option name="allowDataCollection" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="isContrastMode" value="true" />
-    <option name="overrideAccentColor" value="true" />
-    <option name="accentColor" value="298c96" />
+    <option name="isCompactTables" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="upperCaseTabs" value="true" />
+    <option name="accentColor" value="3f51b5" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="-6b89efaa:164b31ef1dc:-7fff" />
     <option name="version" value="2.4.2-2018.1" />
   </component>

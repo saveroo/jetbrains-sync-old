@@ -4,7 +4,7 @@
     <property name="created">2019-09-12T20:38:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-09-12T20:40:57</property>
+    <property name="modified">2019-09-12T21:42:07</property>
     <property name="originalScheme">Material Oceanic copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -51,10 +51,10 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
-    <option name="GUTTER_BACKGROUND" value="263238" />
-    <option name="INDENT_GUIDE" value="37474f" />
+    <option name="GUTTER_BACKGROUND" value="2c3c65" />
+    <option name="INDENT_GUIDE" value="59c7f1" />
     <option name="INFORMATION_HINT" value="263238" />
-    <option name="LINE_NUMBERS_COLOR" value="475f63" />
+    <option name="LINE_NUMBERS_COLOR" value="ffffff" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="607d86" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
@@ -64,7 +64,7 @@
     <option name="NOT_CHANGED" value="607d8b" />
     <option name="QUESTION_HINT" value="263238" />
     <option name="RECENT_LOCATIONS_SELECTION" value="1b2529" />
-    <option name="RIGHT_MARGIN_COLOR" value="37474f" />
+    <option name="RIGHT_MARGIN_COLOR" value="59c7f1" />
     <option name="SELECTED_INDENT_GUIDE" value="9688" />
     <option name="SELECTED_TEARLINE_COLOR" value="9688" />
     <option name="SELECTION_BACKGROUND" value="314549" />
@@ -102,7 +102,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
-    <option name="VISUAL_INDENT_GUIDE" value="37474f" />
+    <option name="VISUAL_INDENT_GUIDE" value="4690b2" />
     <option name="WHITESPACES" value="65737e" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="546e7a" />
   </colors>
@@ -679,6 +679,7 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f3f349" />
+        <option name="BACKGROUND" value="282a36" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -2156,6 +2157,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="282a36" />
         <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -2751,8 +2753,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
-        <option name="BACKGROUND" value="263238" />
+        <option name="FOREGROUND" value="59c7f1" />
+        <option name="BACKGROUND" value="2c3c65" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
