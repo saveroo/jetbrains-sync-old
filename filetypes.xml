@@ -1,19 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="globalComponent" type="JavaScript" />
       <mapping pattern="scratch" type="JavaScript" />
+      <mapping pattern="globalComponent" type="JavaScript" />
       <mapping ext="mp4" type="Native" />
-      <mapping pattern=".babelrc2" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="ProcFile" type="PLAIN_TEXT" />
       <mapping pattern="index,js" type="PLAIN_TEXT" />
+      <mapping pattern=".babelrc2" type="PLAIN_TEXT" />
+      <mapping pattern="ProcFile" type="PLAIN_TEXT" />
       <mapping pattern="quiz-collection.js" type="PLAIN_TEXT" />
-      <mapping pattern="OQsDialog" type="Vue.js" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="QuranAtTaisir.vue" type="Vue.js" />
       <mapping pattern="QsGeneralToolbar" type="Vue.js" />
+      <mapping pattern="OQsDialog" type="Vue.js" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
