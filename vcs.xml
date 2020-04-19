@@ -10,6 +10,10 @@
           <option name="url" value="http://git.heroku.com" />
           <option name="userName" value="saveroo" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="saveroo" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
